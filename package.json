@@ -1,0 +1,23 @@
+{
+	"name": "plus",
+	"version": "0.1.0a",
+	"description": "Deferreds (with join), enhanced Array-like Objects support and more",
+	"keywords": [
+		"object",
+		"array",
+		"deferred"
+	],
+	"homepage": "http://github.com/creative-area/node-plus",
+	"author": "Julian Aubourg <j@ubourg.net> (http://jaubourg.net/)",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/creative-area/node-plus.git"
+	},
+	"main": "lib/plus",
+	"devDependencies": {
+		"nodeunit": ">=0.5.1"
+	},
+	"engines": {
+		"node": ">=0.4.9"
+	}
+}
