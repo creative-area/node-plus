@@ -19,7 +19,7 @@ Ever dreamed you could use _arguments.forEach_ and cringed at the acrobatics inv
 
 __plus__ also introduces the _flatten_ methods for _Arrays_ and _Array-like_ objects, a super useful deep _forEach_/_map_ kind of method.
 
-Furthermore, when it makes sense, __plus__ provides an implementation of _Array_ methods for non-Array-like objects. So you can use forEach, map, filter and more onto plain objects!
+Furthermore, when it makes sense, __plus__ provides an implementation of _Array_ methods for non-_Array-like_ objects. So you can use _forEach_, _map_, _filter_ and more onto plain objects!
 
 ## Proper Type Determination
 
