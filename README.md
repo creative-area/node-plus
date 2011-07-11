@@ -1,6 +1,8 @@
 node-plus
 =========
 node-plus (or just __plus__) is a toolbox for nodejs that adds a bunch of functionalities to make node programming easier.
+
+__plus__ is dual licensed under the MIT or GPL Version 2 licenses.
 ## Deferreds
 
 __plus__ provides a Promise/A compliant _Deferred_ implementation that's as _jQuery_-like as possible while not departing from the proposal.
