@@ -21,5 +21,15 @@
 	},
 	"engines": {
 		"node": ">=0.4.9"
-	}
+	},
+	"licenses": [
+		{
+			"type": "GPLv2",
+			"url": "http://www.opensource.org/licenses/gpl-2.0.php"
+		},
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/mit-license.php"
+		}
+	]
 }
