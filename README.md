@@ -77,7 +77,7 @@ __`Object.prototype.isArrayLike()`__
 > returns true if an Object is an Array or an Array-like Object, false otherwise.
 
 __`typeOf( obj )`__
-> returns the type of `obj`. This is equivalent to the `typeof` operator for non-Objects but will return the correct type for instantiated values. For instance, `typeOf( new String() )` will return `"string"` not `"class"`.
+> returns the type of `obj`. This is equivalent to the `typeof` operator for non-Objects but will return the correct type for instantiated values. For instance, `typeOf( new String() )` will return `"string"` not `"object"`.
 
 ### Array Methods
 
