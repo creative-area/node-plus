@@ -1,4 +1,3 @@
-
 node-plus
 =========
 node-plus (or just __plus__) is a toolbox for nodejs that adds a bunch of functionalities to make node programming easier.
